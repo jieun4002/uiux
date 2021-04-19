@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+
+@font-face{
+  /* 'S-CoreDream-5Medium' */
+  font-family: 'S-CoreDream-5Medium';
+  src: url('fonts/S-CoreDream-5Medium.woff2') format('woff2'),
+  url('fonts/S-CoreDream-5Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'S-CoreDream-6Bold' */
+@font-face{
+  font-family: 'S-CoreDream-6Bold';
+  src: url('fonts/S-CoreDream-6Bold.woff2') format('woff2'),
+  url('fonts/S-CoreDream-6Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'S-CoreDream-7ExtraBold' */
+@font-face{
+  font-family: 'S-CoreDream-7ExtraBold';
+  src: url('fonts/S-CoreDream-7ExtraBold.woff2') format('woff2'),
+  url('fonts/S-CoreDream-7ExtraBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'S-CoreDream-8Heavy' */
+@font-face{
+  font-family: 'S-CoreDream-8Heavy';
+  src: url('fonts/S-CoreDream-8Heavy.woff2') format('woff2'),
+  url('fonts/S-CoreDream-8Heavy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'AppleSDGothicNeoEB00' */
+@font-face{
+  font-family: 'AppleSDGothicNeoEB00';
+  src: url('fonts/AppleSDGothicNeoEB00.woff2') format('woff2'),
+  url('fonts/AppleSDGothicNeoEB00.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'AppleSDGothicNeoH00' */
+@font-face{
+  font-family: 'AppleSDGothicNeoH00';
+  src: url('fonts/AppleSDGothicNeoH00.woff2') format('woff2'),
+  url('fonts/AppleSDGothicNeoH00.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 'AppleSDGothicNeoR00' */
+@font-face{
+  font-family: 'AppleSDGothicNeoR00';
+  src: url('fonts/AppleSDGothicNeoR00.woff2') format('woff2'),
+  url('fonts/AppleSDGothicNeoR00.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
